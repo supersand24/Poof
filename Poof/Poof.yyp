@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "23c3f1eb-855e-4b6d-8547-9d9b6b5e4f89",
+            "Value": {
+                "id": "2901dee3-57d2-495f-9eb6-b1bb0e06e8d6",
+                "resourcePath": "sprites\\spr_manarock\\spr_manarock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2485bf9f-0ba3-4f71-b361-3bf930300d3b",
             "Value": {
                 "id": "1ca2a4aa-c7e8-42f9-93b2-83c4930dbb86",
