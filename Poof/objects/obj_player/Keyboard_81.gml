@@ -1,5 +1,5 @@
 /// @description Poof
-// You can write your code in this editor
+//Big Poof, when enough Mana Rocks
 if (mana_inv = 5) {
 	instance_destroy(obj_enemy)
 }
