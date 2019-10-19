@@ -11,6 +11,12 @@ key_left = keyboard_check(ord("A"));
 key_down = keyboard_check(ord("S"));
 key_right = keyboard_check(ord("D"));
 
+if (key_up || key_left || key_down || key_right) {
+	moving = true;
+} else {
+	moving = false;
+}
+
 //Player may move, when not hiding
 if (!playerHiding) {
 	//When Up Button is being held down.
