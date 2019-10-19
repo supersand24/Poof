@@ -178,7 +178,7 @@
             "Key": "ec03de56-05f0-4bb3-862f-3a5b96d4d1e3",
             "Value": {
                 "id": "9efeaf1a-500d-44f3-ae47-a12dd07e4523",
-                "resourcePath": "objects\\obj_placeholder\\obj_placeholder.yy",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
             }
         },
