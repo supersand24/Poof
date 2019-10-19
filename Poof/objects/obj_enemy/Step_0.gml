@@ -5,16 +5,18 @@ if (goblin_type = "patrol") {
 			state = "aggro";
 		}	
 	}
-	else {
-		
+	if (state = "aggro") {
 		sc_pathfinding();
 		if point_distance(x,y,obj_player.x,obj_player.y) > aggroRange {
+			state = "idle";
+		}
+		if (playerHiding) {
 			state = "idle";
 		}
 	}
 }
 if (goblin_type = "guard") {
-	if !collision_line(x, y, obj_player.x, obj_player.y, obj_wall, false, false) {
+	if (!collision_line(x, y, obj_player.x, obj_player.y, obj_wall, false, false) && (!obj_player.playerHiding)) {
 		if canFireball = 1 {
 			instance_create_depth(x, y, 0, obj_fireball)
 			canFireball = 0
