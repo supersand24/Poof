@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "766a0c65-4d87-4326-8519-a049ad43585b"
+        },
+        {
+            "id": "4d859f82-0c49-452d-9050-cc8d6e9ba621",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "766a0c65-4d87-4326-8519-a049ad43585b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,7 +51,25 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "a5348010-9024-4c90-b32a-d6059399b439",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": [
+                "\"patrol\"",
+                "\"guard\""
+            ],
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "\"guard\"",
+            "varName": "goblin_type",
+            "varType": 6
+        }
+    ],
     "solid": false,
     "spriteId": "2a96b1d9-3006-453c-8090-01d37f440e54",
     "visible": true
