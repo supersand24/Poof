@@ -1,10 +1,19 @@
 {
-    "id": "00c4d001-4e93-4b66-ad3f-5c8bf550ddfe",
+    "id": "cf426445-9c4e-44cd-96e6-79a021cf74ca",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_manarock",
+    "name": "obj_hiding",
     "eventList": [
-        
+        {
+            "id": "533aa21f-83d1-4c60-9ddd-27c841132eaf",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "cf426445-9c4e-44cd-96e6-79a021cf74ca"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "23c3f1eb-855e-4b6d-8547-9d9b6b5e4f89",
+    "spriteId": "85fa9bf0-ad3a-47eb-9436-816b9a14164d",
     "visible": true
 }
