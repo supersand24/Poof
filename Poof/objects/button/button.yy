@@ -51,8 +51,27 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "ca2d3870-8f98-4314-8a8e-1d172d539661",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": [
+                "\"BEGIN\"",
+                "\"QUIT\"",
+                "\"TRY AGAIN\""
+            ],
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "\"BEGIN\"",
+            "varName": "textList",
+            "varType": 6
+        }
+    ],
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "5f667b0c-588f-42fc-b63a-fbdc1fe1ccd5",
     "visible": true
 }
