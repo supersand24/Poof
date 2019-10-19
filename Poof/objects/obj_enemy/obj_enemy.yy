@@ -1,6 +1,5 @@
 {
     "id": "766a0c65-4d87-4326-8519-a049ad43585b",
-
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_enemy",
