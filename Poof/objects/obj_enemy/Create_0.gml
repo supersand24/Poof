@@ -5,5 +5,6 @@ if (goblin_type = "patrol") {
 	aggroRange = 256;
 }
 else {
-	
+	canFireball = 1
+	fireballTimer = 0
 }

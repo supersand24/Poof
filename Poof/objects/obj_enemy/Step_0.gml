@@ -15,6 +15,16 @@ if (goblin_type = "patrol") {
 }
 if (goblin_type = "guard") {
 	if !collision_line(x, y, obj_player.x, obj_player.y, obj_wall, false, false) {
-		instance_create_depth(x, y, 0, obj_fireball)
+		if canFireball = 1 {
+			instance_create_depth(x, y, 0, obj_fireball)
+			canFireball = 0
+		}
+		else {
+			fireballTimer +=1
+			if fireballTimer >= room_speed * 2 {
+				canFireball = 1
+				fireballTimer = 0
+			}
+		}
 	}
 }
