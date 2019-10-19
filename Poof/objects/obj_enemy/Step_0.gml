@@ -7,7 +7,7 @@ if (goblin_type = "patrol") {
 	}
 	else {
 		
-		move_towards_point(obj_player.x,obj_player.y,moveSpeed);
+		sc_pathfinding();
 		if point_distance(x,y,obj_player.x,obj_player.y) > aggroRange {
 			state = "idle";
 		}

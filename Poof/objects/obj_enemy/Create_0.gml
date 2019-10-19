@@ -7,3 +7,6 @@ else {
 	canFireball = 1
 	fireballTimer = 0
 }
+
+//Create the path
+path = path_add();
