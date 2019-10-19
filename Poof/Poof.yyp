@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0427a264-617a-4a42-9b4a-fa19e584de87",
+            "Value": {
+                "id": "2062790e-81fb-4c58-82af-4a00162cd07f",
+                "resourcePath": "objects\\obj_fireball\\obj_fireball.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1d29c948-c606-4946-906e-a01a048e26a2",
             "Value": {
                 "id": "23d1c8b4-05b2-47e2-b3b3-0290d329cddc",
