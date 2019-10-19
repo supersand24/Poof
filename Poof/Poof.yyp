@@ -79,11 +79,35 @@
             }
         },
         {
+            "Key": "23c3f1eb-855e-4b6d-8547-9d9b6b5e4f89",
+            "Value": {
+                "id": "2901dee3-57d2-495f-9eb6-b1bb0e06e8d6",
+                "resourcePath": "sprites\\spr_manarock\\spr_manarock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2485bf9f-0ba3-4f71-b361-3bf930300d3b",
             "Value": {
                 "id": "1ca2a4aa-c7e8-42f9-93b2-83c4930dbb86",
                 "resourcePath": "views\\2485bf9f-0ba3-4f71-b361-3bf930300d3b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2a96b1d9-3006-453c-8090-01d37f440e54",
+            "Value": {
+                "id": "15ab9127-3c9e-41d0-8879-6dd2ca0cfbbd",
+                "resourcePath": "sprites\\spr_goblin\\spr_goblin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2a9e8362-2a07-40b9-b979-e2bb36bfb5e9",
+            "Value": {
+                "id": "57997a53-6720-4649-8208-4ef2af7b687c",
+                "resourcePath": "sprites\\spr_fireball\\spr_fireball.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -116,6 +140,14 @@
                 "id": "fb523ce4-d9da-4cb4-b1a6-b276fd24129d",
                 "resourcePath": "rooms\\rm_lvl1\\rm_lvl1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "5c6f873a-9e43-4e79-a50c-bc4c3f1bd4a3",
+            "Value": {
+                "id": "d0db0a67-9baa-4de2-b31b-a7d97cc537b4",
+                "resourcePath": "scripts\\sc_pathfinding\\sc_pathfinding.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -287,6 +319,14 @@
             }
         },
         {
+            "Key": "f37e64a6-0f60-4f7b-980e-d427e75d4782",
+            "Value": {
+                "id": "88513aba-d459-4d91-bcaf-de24250f15e2",
+                "resourcePath": "objects\\pathfinding\\pathfinding.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "57b5487d-1023-44f0-aa03-9148bd30513b",
@@ -312,7 +352,7 @@
         }
     ],
     "script_order": [
-        
+        "5c6f873a-9e43-4e79-a50c-bc4c3f1bd4a3"
     ],
     "tutorial": ""
 }

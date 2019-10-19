@@ -51,8 +51,26 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "a5348010-9024-4c90-b32a-d6059399b439",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": [
+                "\"patrol\"",
+                "\"guard\""
+            ],
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "\"guard\"",
+            "varName": "goblin_type",
+            "varType": 6
+        }
+    ],
     "solid": false,
-    "spriteId": "5f667b0c-588f-42fc-b63a-fbdc1fe1ccd5",
+    "spriteId": "2a96b1d9-3006-453c-8090-01d37f440e54",
     "visible": true
 }
