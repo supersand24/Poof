@@ -1,5 +1,5 @@
-var cellWidth = 32;
-var cellHeight = 32;
+cellWidth = 32;
+cellHeight = 32;
 
 var hcells = room_width div cellWidth;
 var vcells = room_height div cellHeight;
