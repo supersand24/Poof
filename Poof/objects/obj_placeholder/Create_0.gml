@@ -1,0 +1,2 @@
+playerspeed = 5
+
