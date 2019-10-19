@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "2a96b1d9-3006-453c-8090-01d37f440e54",
+            "Value": {
+                "id": "15ab9127-3c9e-41d0-8879-6dd2ca0cfbbd",
+                "resourcePath": "sprites\\spr_goblin\\spr_goblin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2a9e8362-2a07-40b9-b979-e2bb36bfb5e9",
             "Value": {
                 "id": "57997a53-6720-4649-8208-4ef2af7b687c",
@@ -276,6 +284,14 @@
                 "id": "f2369495-376e-4c48-abe2-251a99d0af05",
                 "resourcePath": "sprites\\spr_player\\spr_player.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f37e64a6-0f60-4f7b-980e-d427e75d4782",
+            "Value": {
+                "id": "88513aba-d459-4d91-bcaf-de24250f15e2",
+                "resourcePath": "objects\\pathfinding\\pathfinding.yy",
+                "resourceType": "GMObject"
             }
         },
         {

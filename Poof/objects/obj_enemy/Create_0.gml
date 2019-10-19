@@ -1,3 +1,3 @@
 state = "idle";
 moveSpeed = 4;
-aggroRange = 256;
+aggroRange = 500;
