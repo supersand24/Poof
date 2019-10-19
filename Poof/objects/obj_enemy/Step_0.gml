@@ -10,7 +10,7 @@ if (goblin_type = "patrol") {
 		if point_distance(x,y,obj_player.x,obj_player.y) > aggroRange {
 			state = "idle";
 		}
-		if (playerHiding) {
+		if (obj_player.playerHiding) {
 			state = "idle";
 		}
 	}
