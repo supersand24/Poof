@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "aa4b3e46-9675-4d39-972c-d10619ead509",
+            "Value": {
+                "id": "e2001ec3-6029-46b4-bc6f-4eed0f17239f",
+                "resourcePath": "objects\\obj_lockeddoor\\obj_lockeddoor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "aa7c71b2-0373-43a9-91cc-361cb652d052",
             "Value": {
                 "id": "7e4193f5-304e-4466-ad6e-933e45b920b7",
