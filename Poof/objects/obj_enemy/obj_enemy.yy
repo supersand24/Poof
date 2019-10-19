@@ -65,7 +65,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "\"guard\"",
+            "value": "\"patrol\"",
             "varName": "goblin_type",
             "varType": 6
         }
