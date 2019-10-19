@@ -1,5 +1,9 @@
+state = "idle";
+startX = x
+startY = y
+
+
 if (goblin_type = "patrol") {
-	state = "idle";
 	moveSpeed = 4;
 	aggroRange = 500;
 }
