@@ -6,3 +6,5 @@ if (goblin_type = "guard") {
 else if (goblin_type = "patrol") {
 	draw_sprite(spr_goblin, 0, x, y)
 }
+
+draw_text(x,y,state)
