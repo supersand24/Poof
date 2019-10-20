@@ -7,3 +7,5 @@ moving = false;
 image_speed = 1;
 
 frame = 0;
+
+global.roomSave = room
