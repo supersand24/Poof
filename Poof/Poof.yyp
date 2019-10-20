@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "943abf7f-197f-483f-a19c-024c076cadab",
+            "Value": {
+                "id": "34d9e89c-e468-4b6e-8b33-42dc2daa111c",
+                "resourcePath": "fonts\\norm\\norm.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "9ac3c160-db1e-4629-baba-8470f7b4440f",
             "Value": {
                 "id": "b227e5e3-ca0e-4164-b86b-4afc4f5dbb0f",
@@ -316,6 +324,14 @@
                 "id": "54b24fc4-62b8-4016-8af2-3e6aa5bf3dd3",
                 "resourcePath": "sprites\\spr_skull\\spr_skull.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0d68e03-e71a-4bc9-9b69-7ff2bcd8c2c7",
+            "Value": {
+                "id": "1882f176-98a5-4064-ae29-cfdffe29ee58",
+                "resourcePath": "fonts\\announce\\announce.yy",
+                "resourceType": "GMFont"
             }
         },
         {
