@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "50da4017-cfa8-474a-b5b0-53e9143ee009",
+            "Value": {
+                "id": "d0230e42-68d5-4cd6-b0c8-9e05c8f848df",
+                "resourcePath": "sprites\\spr_player_noSword\\spr_player_noSword.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "56d5e253-44f3-4b98-88f4-add3c16530e7",
             "Value": {
                 "id": "fb523ce4-d9da-4cb4-b1a6-b276fd24129d",
@@ -252,6 +260,14 @@
                 "id": "3eb0bba0-fcf2-44bf-a6a3-38e77ba3a862",
                 "resourcePath": "views\\8a39996c-ddab-4603-b6d7-98fecd9f1444.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8fef44c4-aef7-46c0-aa6f-711bb635bc89",
+            "Value": {
+                "id": "8de78776-96f9-40a4-934a-6eab97e9aca6",
+                "resourcePath": "sprites\\spr_player_hands_noSword\\spr_player_hands_noSword.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -356,6 +372,14 @@
                 "id": "60b46262-dc7e-43c5-be97-4fb34148205f",
                 "resourcePath": "rooms\\rm_lvl2\\rm_lvl2.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b703caf7-9eb1-4169-9047-6e814db51ed7",
+            "Value": {
+                "id": "84dd3e30-b70a-4cbb-886b-b7eb90ec2916",
+                "resourcePath": "views\\b703caf7-9eb1-4169-9047-6e814db51ed7.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
