@@ -112,6 +112,20 @@
             "value": "500",
             "varName": "aggroRange",
             "varType": 1
+        },
+        {
+            "id": "1ad15da8-ca43-475a-95d1-1f12fdad7746",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "willPoof",
+            "varType": 3
         }
     ],
     "solid": false,
