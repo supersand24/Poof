@@ -13,6 +13,26 @@
             "enumb": 0,
             "eventtype": 8,
             "m_owner": "6fb844ad-f84c-4723-817c-2a3a1c60be9e"
+        },
+        {
+            "id": "15e0baf8-a4a9-4ef8-acbc-bab8b5bda862",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 9,
+            "m_owner": "6fb844ad-f84c-4723-817c-2a3a1c60be9e"
+        },
+        {
+            "id": "5cb690f3-6a91-45f8-894a-816e9037ce32",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "6fb844ad-f84c-4723-817c-2a3a1c60be9e"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -37,14 +57,22 @@
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": [
-                "\"Let Chloe play spryo pls\""
+                "\"Oh . . . Another adventurer come to die in the depths . . .\"",
+                "\"! ! !\"",
+                "\". . . No! I've come to clear out this dungeon once and for all!\"",
+                "\"Well . . . If you're sure, I know an easier way.\"",
+                "\"There are 5 mana rocks in each level of this dungeon. Just avoid the monsters until you collect them all, and you can cast a spell to clear out the whole floor at once!\"",
+                "\"Wow, that sounds so much easier than fighting!\"",
+                "\"But . . . Where do they go when they disappear?\"",
+                "\"Who cares? Not your problem anymore!\"",
+                "\"Yeah, I guess you’re right . . . Thanks, old man!\""
             ],
             "multiselect": false,
             "rangeEnabled": false,
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "\"Let Chloe play spryo pls\"",
+            "value": "\"Oh . . . Another adventurer come to die in the depths . . .\"",
             "varName": "dialogue",
             "varType": 6
         }

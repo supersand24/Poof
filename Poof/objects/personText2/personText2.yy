@@ -1,28 +1,28 @@
 {
-    "id": "f03efd22-a7e9-4915-81ab-8d9702fa583e",
+    "id": "f34692cc-a13a-4592-9e1e-17e37302ec49",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "personSpeak",
+    "name": "personText2",
     "eventList": [
         {
-            "id": "22314290-bcb8-431e-8c85-36e1f41388a0",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "f03efd22-a7e9-4915-81ab-8d9702fa583e"
-        },
-        {
-            "id": "90f64e23-06d7-48d9-8aa2-e1bf72c19715",
+            "id": "a9557510-5726-47d8-b997-68ccde20eb2e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "f03efd22-a7e9-4915-81ab-8d9702fa583e"
+            "m_owner": "f34692cc-a13a-4592-9e1e-17e37302ec49"
+        },
+        {
+            "id": "1ae68614-2630-4da1-bdb4-3549eb70c12f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "f34692cc-a13a-4592-9e1e-17e37302ec49"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,22 +43,18 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "9052bb97-891c-4edb-a254-de4e0843a1ef",
+            "id": "c9d49be3-4d20-4093-a9d2-28b4315804d6",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
-            "listItems": [
-                "\"Old Man\"",
-                "\"Noble Adventurer\"",
-                "\"(Not-So) Noble Adventurer\""
-            ],
+            "listItems": null,
             "multiselect": false,
             "rangeEnabled": false,
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "\"Old Man\"",
-            "varName": "character",
-            "varType": 6
+            "value": "\"\"",
+            "varName": "line2",
+            "varType": 2
         }
     ],
     "solid": false,
