@@ -7,6 +7,6 @@ else if (textList = "QUIT") {
 	game_end()
 }
 
-else {
+else if (textList = "TRY AGAIN") {
 	room_goto(global.roomSave)
 }

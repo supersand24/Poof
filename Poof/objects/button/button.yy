@@ -59,7 +59,8 @@
             "listItems": [
                 "\"BEGIN\"",
                 "\"QUIT\"",
-                "\"TRY AGAIN\""
+                "\"TRY AGAIN\"",
+                "\"GAME OVER\""
             ],
             "multiselect": false,
             "rangeEnabled": false,
@@ -68,6 +69,23 @@
             "resourceFilter": 1023,
             "value": "\"BEGIN\"",
             "varName": "textList",
+            "varType": 6
+        },
+        {
+            "id": "ca5d91cf-de6e-458d-a9eb-712ac2f1aa1b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": [
+                "norm",
+                "announce"
+            ],
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "norm",
+            "varName": "fontType",
             "varType": 6
         }
     ],
