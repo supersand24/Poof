@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "8d9af062-6eed-4196-a93c-030502a39daa",
+            "Value": {
+                "id": "ea065683-c5fe-437a-ba57-d874919395a5",
+                "resourcePath": "sprites\\spr_player_hands_swing\\spr_player_hands_swing.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8fef44c4-aef7-46c0-aa6f-711bb635bc89",
             "Value": {
                 "id": "8de78776-96f9-40a4-934a-6eab97e9aca6",

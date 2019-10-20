@@ -5,6 +5,9 @@ if (hasSword) {
 	image_index = 0;
 }
 
+if (attackFrame > -1) { attackFrame++ }
+if (attackFrame >= 32) { attackFrame = -1; }
+
 //Save keys as variables - implemented so when we add Controllers.
 key_up = keyboard_check(ord("W"));
 key_left = keyboard_check(ord("A"));
