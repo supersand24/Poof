@@ -1,7 +1,7 @@
 if (goblin_type = "patrol") {
 	if (state = "idle") {
 		path_end();
-		if (point_distance(x,y,obj_player.x,obj_player.y) < aggroRange) {
+		if ((point_distance(x,y,obj_player.x,obj_player.y) < aggroRange) && !(collision_line(x, y, obj_player.x, obj_player.y, obj_wall, false, false))) {
 			if (!obj_player.playerHiding) {
 				state = "aggro";
 			}
@@ -9,7 +9,7 @@ if (goblin_type = "patrol") {
 	}
 	if (state = "aggro") {
 		sc_pathfinding(obj_player.x,obj_player.y);
-		if point_distance(x,y,obj_player.x,obj_player.y) > aggroRange {
+		if ((point_distance(x,y,obj_player.x,obj_player.y) > aggroRange) && !(collision_line(x, y, obj_player.x, obj_player.y, obj_wall, false, false))) {
 			path_end();
 			state = "return";
 			sc_pathfinding(startX,startY)
