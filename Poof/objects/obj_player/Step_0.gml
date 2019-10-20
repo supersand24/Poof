@@ -1,12 +1,20 @@
 //If Player is holding sword, change Sprite accordingly.
 if (hasSword) {
 	image_index = 1;
+	if (attackFrame > -1) {
+	attackFrame++ 
+	var inst;
+	//Find any objects in a nearby radius save them to be referenced later.
+	inst = collision_rectangle(x + 75, y + 75, x - 75, y - 75, obj_enemy, false, true);
+	if inst != noone {
+		//Kill found instances.
+		instance_destroy(inst);
+	}}
+if (attackFrame >= 24) { attackFrame = -1; }
 } else {
 	image_index = 0;
 }
 
-if (attackFrame > -1) { attackFrame++ }
-if (attackFrame >= 24) { attackFrame = -1; }
 
 //Save keys as variables - implemented so when we add Controllers.
 key_up = keyboard_check(ord("W"));
