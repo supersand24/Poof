@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "6655240a-dd22-40df-b12e-cc145aeeaa7c",
+            "Value": {
+                "id": "b9a0f818-7231-443c-8f2a-56843ef1c7ef",
+                "resourcePath": "objects\\controller\\controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6e46fdd4-7ca3-4d57-9328-0a434c466b26",
             "Value": {
                 "id": "665e6df0-0499-4350-84ad-b23616eeedfb",
@@ -459,6 +467,14 @@
             "Value": {
                 "id": "3acc6b22-7335-42cd-8f2e-d2b6bfa34ec5",
                 "resourcePath": "objects\\personSpeak\\personSpeak.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f34692cc-a13a-4592-9e1e-17e37302ec49",
+            "Value": {
+                "id": "623e36ac-8475-4a0b-bd0c-cbd75e02ce3a",
+                "resourcePath": "objects\\personText2\\personText2.yy",
                 "resourceType": "GMObject"
             }
         },
