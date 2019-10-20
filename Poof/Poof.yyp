@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "6fb844ad-f84c-4723-817c-2a3a1c60be9e",
+            "Value": {
+                "id": "b07a40e5-abd5-4599-b90d-5d545a713226",
+                "resourcePath": "objects\\personText\\personText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "766a0c65-4d87-4326-8519-a049ad43585b",
             "Value": {
                 "id": "798bd8b2-39bb-453a-a727-74a7c2882cbc",
@@ -275,6 +283,14 @@
             "Value": {
                 "id": "bbb2edaf-a599-48b7-8ba7-614b5edf5f37",
                 "resourcePath": "rooms\\rm_startpage\\rm_startpage.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a650b80d-1344-41ab-a341-ac3ae2d61726",
+            "Value": {
+                "id": "1ab0ad96-0f24-41a5-9970-bd9223e7891f",
+                "resourcePath": "rooms\\rm_dialogue\\rm_dialogue.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -420,6 +436,14 @@
                 "id": "f2369495-376e-4c48-abe2-251a99d0af05",
                 "resourcePath": "sprites\\spr_player\\spr_player.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f03efd22-a7e9-4915-81ab-8d9702fa583e",
+            "Value": {
+                "id": "3acc6b22-7335-42cd-8f2e-d2b6bfa34ec5",
+                "resourcePath": "objects\\personSpeak\\personSpeak.yy",
+                "resourceType": "GMObject"
             }
         },
         {

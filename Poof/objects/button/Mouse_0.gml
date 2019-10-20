@@ -8,5 +8,5 @@ else if (textList = "QUIT") {
 }
 
 else {
-	room_goto(rm_intro)
+	room_goto(global.roomSave)
 }
