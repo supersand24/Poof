@@ -39,11 +39,27 @@
             }
         },
         {
+            "Key": "03327fcf-1ae7-4f19-bc4d-d44e9872a281",
+            "Value": {
+                "id": "3333acc7-f6ae-4c24-a293-3a9fe5ff3c07",
+                "resourcePath": "rooms\\rm_intro\\rm_intro.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0427a264-617a-4a42-9b4a-fa19e584de87",
             "Value": {
                 "id": "2062790e-81fb-4c58-82af-4a00162cd07f",
                 "resourcePath": "objects\\obj_fireball\\obj_fireball.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0cff965d-5e3e-4d14-bca3-831335ec93c3",
+            "Value": {
+                "id": "5603412a-ad8d-4694-b0f3-3aed72fca745",
+                "resourcePath": "sprites\\spr_collider\\spr_collider.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -324,6 +340,14 @@
                 "id": "68d5ed3e-ecc9-464a-a400-2b17e1dfa76d",
                 "resourcePath": "sprites\\spr_wall\\spr_wall.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b30e29a5-0cb8-4268-a55b-1d4b07124003",
+            "Value": {
+                "id": "e81d839a-a1f7-4e8c-9f2b-9ed81b31638f",
+                "resourcePath": "tilesets\\ts_wall\\ts_wall.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
