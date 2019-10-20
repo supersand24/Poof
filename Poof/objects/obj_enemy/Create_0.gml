@@ -5,7 +5,6 @@ startY = y
 
 if (goblin_type = "patrol") {
 	moveSpeed = 4;
-	aggroRange = 500;
 }
 else {
 	canFireball = 1

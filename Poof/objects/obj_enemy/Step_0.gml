@@ -5,7 +5,7 @@ if (goblin_type = "patrol") {
 			if (!obj_player.playerHiding) {
 				state = "aggro";
 			}
-		}	
+		}
 	}
 	if (state = "aggro") {
 		sc_pathfinding(obj_player.x,obj_player.y);

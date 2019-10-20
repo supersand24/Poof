@@ -88,6 +88,20 @@
             "value": "\"patrol\"",
             "varName": "goblin_type",
             "varType": 6
+        },
+        {
+            "id": "b3aeb9d9-d13e-4bcb-898c-d4314866bb67",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "500",
+            "varName": "aggroRange",
+            "varType": 1
         }
     ],
     "solid": false,
