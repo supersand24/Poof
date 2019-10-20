@@ -112,9 +112,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "variable_name",
-            "varType": 0
+            "value": "True",
+            "varName": "hasSword",
+            "varType": 3
         }
     ],
     "solid": false,
