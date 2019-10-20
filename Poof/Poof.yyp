@@ -55,11 +55,27 @@
             }
         },
         {
+            "Key": "0ce34d66-a4c5-4a9f-a622-5243122ceba7",
+            "Value": {
+                "id": "c131f973-0f50-40f2-880b-7845fc4fcc98",
+                "resourcePath": "objects\\obj_title\\obj_title.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0cff965d-5e3e-4d14-bca3-831335ec93c3",
             "Value": {
                 "id": "5603412a-ad8d-4694-b0f3-3aed72fca745",
                 "resourcePath": "sprites\\spr_collider\\spr_collider.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "12951832-9a7f-46d5-926b-49e8b313bf19",
+            "Value": {
+                "id": "9e4459db-cae5-47cb-917d-eef8664961dd",
+                "resourcePath": "fonts\\title\\title.yy",
+                "resourceType": "GMFont"
             }
         },
         {
